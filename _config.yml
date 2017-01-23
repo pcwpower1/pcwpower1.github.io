@@ -32,6 +32,9 @@ social:
   - title: instagram
     url: "https://www.instagram.com/pcwpower/"
 
+disqus:
+  name: pcwpower
+  
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
