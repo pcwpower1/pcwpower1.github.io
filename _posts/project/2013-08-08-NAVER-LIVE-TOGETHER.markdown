@@ -2,7 +2,7 @@
 layout: project
 title:  "NAVER LIVE TOGETHER"
 date:   2013-08-08
-author:  MJKIM
+author:  chanwoo
 categories:
 - project
 img: portfolio_07.jpg

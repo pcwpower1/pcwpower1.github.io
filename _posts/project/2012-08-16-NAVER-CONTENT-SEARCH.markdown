@@ -2,7 +2,7 @@
 layout: project
 title:  "NAVER CONTENT SEARCH"
 date:   2012-08-16
-author: MJKIM
+author: chanwoo
 categories:
 - project
 img: portfolio_10.jpg

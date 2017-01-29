@@ -2,7 +2,7 @@
 layout: project
 title:  "NAVER STORY"
 date:   2015-01-30
-author: MJKIM
+author: chanwoo
 categories:
 - project
 img: portfolio_05.jpg

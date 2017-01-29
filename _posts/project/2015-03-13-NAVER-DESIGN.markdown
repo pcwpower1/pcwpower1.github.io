@@ -2,7 +2,7 @@
 layout: project
 title:  "NAVER DESIGN"
 date:   2015-03-13
-author: MJKIM
+author: chanwoo
 categories:
 - project
 img: portfolio_04.jpg

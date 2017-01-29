@@ -2,7 +2,7 @@
 layout: project
 title:  "DIALOGUE IN THE DARK"
 date:   2014-11-28
-author: MJKIM
+author: chanwoo
 categories:
 - project
 img: portfolio_06.jpg

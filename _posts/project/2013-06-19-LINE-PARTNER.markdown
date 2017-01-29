@@ -2,7 +2,7 @@
 layout: project
 title:  "LINE PARTNER"
 date:   2013-06-19
-author: MJKIM
+author: chanwoo
 categories:
 - project
 img: portfolio_02.jpg

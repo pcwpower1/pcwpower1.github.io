@@ -2,7 +2,7 @@
 layout: project
 title:  "HANGAME"
 date:   2012-10-06
-author: MJKIM
+author: chanwoo
 categories:
 - project
 img: portfolio_09.jpg

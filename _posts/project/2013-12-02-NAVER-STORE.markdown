@@ -2,7 +2,7 @@
 layout: project
 title:  "NAVER STORE"
 date:   2013-12-02
-author: MJKIM
+author: chanwoo
 categories:
 - project
 img: portfolio_01.jpg

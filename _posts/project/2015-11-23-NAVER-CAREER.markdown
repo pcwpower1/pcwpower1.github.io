@@ -2,7 +2,7 @@
 layout: project
 title:  "NAVER CAREER"
 date:   2015-11-23
-author: MJKIM
+author: chanwoo
 categories:
 - project
 img: portfolio_03.jpg
